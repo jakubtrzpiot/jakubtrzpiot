@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubtrzpiot&label=Profile%20views&color=0e75b6&style=flat" alt="jakubtrzpiot" /> </p>
 
-- 🔭 I’m currently working on [My portfolio website](https://github.com/jakubtrzpiot/portfoloo)
+- 🔭 I’m currently working on [My portfolio website](https://github.com/jakubtrzpiot/portfolio)
 
 - 🌱 I’m currently learning **Rust, Typescript and graphql**
 
