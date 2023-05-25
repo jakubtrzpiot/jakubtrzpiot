@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubtrzpiot&label=Profile%20views&color=0e75b6&style=flat" alt="jakubtrzpiot" /> </p>
 
-- 🔭 I’m currently working on My [portfolio website](https://github.com/jakubtrzpiot/portfoloo)
+- 🔭 I’m currently working on [My portfolio website](https://github.com/jakubtrzpiot/portfoloo)
 
-- 🌱 I’m currently learning **Rust and Kotlin**
+- 🌱 I’m currently learning **Rust, Typescript and graphql**
 
 - 👨‍💻 Some of my projects are available at [https://trzpiodev.vercel.app/](https://trzpiodev.vercel.app/)
 
