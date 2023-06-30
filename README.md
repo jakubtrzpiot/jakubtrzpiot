@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a [Micromouse](https://en.wikipedia.org/wiki/Micromouse)
+- 🔭 I’m currently working on a [Micromouse](https://en.wikipedia.org/wiki/Micromouse) and my university's [Timetable App](https://github.com/jakubtrzpiot/wm-timetable)
 
 - 🌱 I’m currently learning **Rust, Typescript and graphql**
 
